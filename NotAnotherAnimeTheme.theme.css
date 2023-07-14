@@ -8,7 +8,7 @@
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
 
-@import url();
+@import url((https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -21,8 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url( 
-);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/716753826316681237/1129309073398046720/K8roaH.png);
 
   /*
     Main Theme Color
